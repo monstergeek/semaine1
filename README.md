@@ -2,10 +2,10 @@
 
  J'étais en cours à plein temps mais c'était _lent_ et _ennuyant_.  
  Maintenant j'suis au __CNED__ mais j'y passe que la __moitié de mon temps__.  
- Je suis en 1er *S-SVT* mais j'aurais voulu __SI__, je préfère les __ordi__ au *organe*.
+ Je suis en 1er _S-SVT_ mais j'aurais voulu __SI__, je préfère les __ordis__ aux _organes_.
  
- Bon, sinon j'ai 16 ans, je reve de coder mais ne sais pas par ou commencer.  
- J'ai trouver simplon et je vais essayer.
+ Bon, sinon j'ai 16 ans, je rêve de coder mais ne sais pas par où commencer.  
+ J'ai trouvé simplon et je vais essayer.
 
 ## Experience professionelle
 
